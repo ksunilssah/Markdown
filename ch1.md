@@ -102,6 +102,6 @@ Is there any other way to refer links. Yes see the [Google][test] example again.
 <p>Wow learned to many things ....to add hyperlink to <a href="https://www.google.com/" title="google link title">google</a> Title tag is optional here.  
 ```
 
-Lets add image here ![alt text](https://madskristensen.gallerycdn.vsassets.io/extensions/madskristensen/markdowneditor/1.12.233/1522879595588/Microsoft.VisualStudio.Services.Icons.Default) we can also use references to add image like we did for anchor tag. ![alt text goes here][reference]
+Lets add image here ![alt text](https://avatars2.githubusercontent.com/u/2322372?s=40&v=4) we can also use references to add image like we did for anchor tag. ![alt text goes here][reference]
 
-[reference]: https://madskristensen.gallerycdn.vsassets.io/extensions/madskristensen/markdowneditor/1.12.233/1522879595588/Microsoft.VisualStudio.Services.Icons.Default "title goes here"
+[reference]: https://avatars2.githubusercontent.com/u/2322372?s=40&v=4 "title goes here"
